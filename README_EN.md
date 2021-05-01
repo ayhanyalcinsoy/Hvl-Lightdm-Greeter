@@ -78,3 +78,5 @@ The file `/usr/share/lightdm/lightdm-hvl-greeter.conf.d/hvl-lightdm-greeter.conf
 	-positioning of loginform, settingsform and clockform. 
 	-System services to wait etc.
 The configuration options are documented in that file.
+
+<img src="https://raw.githubusercontent.com/ayhanyalcinsoy/pisi-lightDM-greeter/master/ss/screen_shoot.jpg">
